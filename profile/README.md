@@ -8,12 +8,7 @@ The [Agentic AI Foundation](www.aaif.io) (AAIF) provides a neutral, open foundat
 ## 🚀 Projects
 
 <table>
-  <tr>
-    <th>Logo</th>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-
+  
   <tr>
     <td align="center">
       <img src="assets/mcp-favicon.svg" width="70" alt="MCP Logo">
