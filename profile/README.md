@@ -3,7 +3,7 @@
   <img src="assets/AAIF_Primary_Logo_Black_on_White.jpg" alt="AAIF Logo" />
 </p>
 
-The [Agentic AI Foundation](www.aaif.io) (AAIF) provides a neutral, open foundation to ensure this critical capability evolves transparently, collaboratively, and in ways that advance the adoption of leading open source AI projects. AAIF is part of the [Linux Foundation](www.linuxfoundation.org).
+The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundation to ensure this critical capability evolves transparently, collaboratively, and in ways that advance the adoption of leading open source AI projects. AAIF is part of the Linux Foundation (www.linuxfoundation.org).
 
 ## 🚀 Projects
 
@@ -28,7 +28,7 @@ The [Agentic AI Foundation](www.aaif.io) (AAIF) provides a neutral, open foundat
       <img src="assets/goose-logo-black.png" width="70" alt="goose Logo">
     </td>
     <td>
-      <a href="http://github.com/block/goose">
+      <a href="https://github.com/aaif-goose">
         <strong>goose</strong>
       </a>
     </td>
