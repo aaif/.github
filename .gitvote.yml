@@ -114,8 +114,8 @@ profiles:
     #   exclude_team_maintainers: false
     #
     allowed_voters:
-          teams:
-        - aaif-technical-committee
+        teams:
+          - aaif-technical-committee
       exclude_team_maintainers: true
 
     # Periodic status check
