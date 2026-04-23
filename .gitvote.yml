@@ -27,7 +27,7 @@
 #   enabled: true
 #
 audit:
-  enabled: false
+  enabled: true
 
 # Automation (optional)
 #
