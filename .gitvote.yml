@@ -76,7 +76,7 @@ profiles:
     #   days    | day    | d
     #   weeks   | week   | w
     #
-    duration: 5m
+    duration: 4d
 
     # Pass threshold (required)
     #
@@ -84,7 +84,7 @@ profiles:
     #
     # The percentage is calculated based on the number of votes in favor and the
     # number of allowed voters (see allowed_voters field below for more details).
-    pass_threshold: 50
+    pass_threshold: 51
 
     # Allowed voters (optional)
     #
@@ -114,8 +114,9 @@ profiles:
     #   exclude_team_maintainers: false
     #
     allowed_voters:
-      teams: []
-      users: []
+      teams: - AAIF-Technical-Committee
+      users:
+      exclude_team_maintainers: true
 
     # Periodic status check
     # 
@@ -144,7 +145,7 @@ profiles:
     #
     # periodic_status_check: "5 days"
     #
-    periodic_status_check: null
+    periodic_status_check: "1 day"
 
     # Close on passing
     # 
@@ -202,9 +203,9 @@ profiles:
   # profile is used when using the /vote command, but its values are not used as
   # default values when they are not provided on other profiles.
   #
-  profile1:
-    duration: 1m
-    pass_threshold: 75
-    allowed_voters:
-      teams:
+ # profile1:
+  #  duration: 1m
+   # pass_threshold: 75
+   # allowed_voters:
+    #  teams:
         - team1
