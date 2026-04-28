@@ -27,7 +27,7 @@
 #   enabled: true
 #
 audit:
-  enabled: true
+  enabled: false
 
 # Automation (optional)
 #
@@ -76,7 +76,7 @@ profiles:
     #   days    | day    | d
     #   weeks   | week   | w
     #
-    duration: 4d
+    duration: 7d
 
     # Pass threshold (required)
     #
@@ -145,7 +145,7 @@ profiles:
     #
     # periodic_status_check: "5 days"
     #
-    periodic_status_check: "1 day"
+    periodic_status_check: "3 days"
 
     # Close on passing
     # 
@@ -158,7 +158,7 @@ profiles:
     # 
     # close_on_passing: true
     #
-    close_on_passing: false
+    close_on_passing: true
 
     # Close on passing minimum wait
     # 
