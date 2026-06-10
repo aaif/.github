@@ -51,4 +51,18 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
     </td>
   </tr>
 
+  <tr>
+    <td align="center">
+      <img src="assets/agentgateway-logo.svg" width="70" alt="AGENTS.MD Logo">
+    </td>
+    <td>
+      <a href="https://github.com/agentgateway">
+        <strong>agentgateway</strong>
+      </a>
+    </td>
+    <td>
+      One high-performance gateway for service, LLM, and MCP traffic.
+    </td>
+    
+  </tr>
 </table>
