@@ -66,3 +66,17 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
     
   </tr>
 </table>
+
+## 💪 Working Groups
+
+* [Identity and Trust](https://github.com/aaif/wg-identity-and-trust)
+* [Governance, Risk, and Regulatory](https://github.com/aaif/wg-governance-risk-and-regulatory)
+* [Workflows and Process Integration](https://github.com/aaif/wg-workflows-and-process-integration)
+* [Accuracy and Reliability](https://github.com/aaif/wg-accuracy-and-reliability)
+* [Security and Privacy](https://github.com/aaif/wg-security-and-privacy)
+* [Agentic Commerce](https://github.com/aaif/wg-agentic-commerce)
+* [Observability and Traceability](https://github.com/aaif/wg-observability-and-traceability)
+
+## ⚙️ Cross-group Workstreams
+* [Taxonomy and Landscape](https://github.com/aaif/ws-taxonomy-landscape)
+
