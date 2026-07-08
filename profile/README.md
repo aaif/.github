@@ -19,6 +19,9 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
       </a>
     </td>
     <td>
+      Impact Stage
+    </td>
+    <td>
       An open protocol that enables seamless integration between LLM applications and external data sources and tools.
     </td>
   </tr>
@@ -31,6 +34,9 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
       <a href="https://github.com/aaif-goose">
         <strong>goose</strong>
       </a>
+    </td>
+    <td>
+      Impact Stage
     </td>
     <td>
       An open source, extensible AI agent that goes beyond code suggestions. Install, execute, edit, and test with any LLM.
@@ -46,6 +52,9 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
         <strong>AGENTS.MD</strong>
       </a>
     </td>
+     <td>
+      Impact Stage
+    </td>
     <td>
       A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
     </td>
@@ -59,6 +68,9 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
       <a href="https://github.com/agentgateway">
         <strong>agentgateway</strong>
       </a>
+    </td>
+    <td>
+      Growth Stage
     </td>
     <td>
       One high-performance gateway for service, LLM, and MCP traffic.
