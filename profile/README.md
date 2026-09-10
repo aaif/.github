@@ -74,9 +74,22 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
       </a>
     </td>
     <td>
-      An open standard for seamless communication and interoperability between AI agents
+      An open standard for seamless communication and interoperability between AI agents.
     </td>
 
+  <tr>
+    <td align="center">
+      <img src="assets/agent-router-logo-icon.svg" width="70" alt="Agent Router Logo">
+    </td>
+    <td>
+      <a href="https://github.com/theagentrouter">
+        <strong>Agent Router</strong>
+      </a>
+    </td>
+    <td>
+      The control plane for agent traffic.
+    </td>
+    
   </tr>
 </table>
 
