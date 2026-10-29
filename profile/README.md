@@ -8,89 +8,87 @@ The Agentic AI Foundation (www.aaif.io) (AAIF) provides a neutral, open foundati
 ## 🚀 Projects
 
 <table>
-  
+  <thead>
+    <tr>
+      <th></th>
+      <th>Project</th>
+      <th>Stage</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+
   <tr>
-    <td align="center">
-      <img src="assets/mcp-favicon.svg" width="70" alt="MCP Logo">
-    </td>
-    <td>
-      <a href="https://github.com/modelcontextprotocol">
-        <strong>Model Context Protocol (MCP)</strong>
-      </a>
-    </td>
-    <td>
-      An open protocol that enables seamless integration between LLM applications and external data sources and tools.
-    </td>
+    <td align="center"><img src="assets/agent-router-logo-icon.svg" width="70" alt="Agent Router Logo"></td>
+    <td><a href="https://github.com/theagentrouter"><strong>Agent Router</strong></a></td>
+    <td>Growth</td>
+    <td>The control plane for agent traffic.</td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="assets/goose-logo-black.png" width="70" alt="goose Logo">
-    </td>
-    <td>
-      <a href="https://github.com/aaif-goose">
-        <strong>goose</strong>
-      </a>
-    </td>
-    <td>
-      An open source, extensible AI agent that goes beyond code suggestions. Install, execute, edit, and test with any LLM.
-    </td>
+    <td align="center"><img src="assets/agent-skills-hex-black.svg" width="70" alt="Agent Skills Logo"></td>
+    <td><a href="https://github.com/agentskills"><strong>Agent Skills</strong></a></td>
+    <td>Impact</td>
+    <td>A simple, open format for giving agents new capabilities and expertise.</td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="assets/agents.md-favicon.png" width="70" alt="AGENTS.MD Logo">
-    </td>
-    <td>
-      <a href="https://github.com/agentsmd">
-        <strong>AGENTS.MD</strong>
-      </a>
-    </td>
-    <td>
-      A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
-    </td>
+    <td align="center"><img src="assets/a2a.png" width="70" alt="A2A Logo"></td>
+    <td><a href="https://github.com/a2aproject"><strong>Agent2Agent (A2A)</strong></a></td>
+    <td>Growth</td>
+    <td>An open standard for seamless communication and interoperability between AI agents.</td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="assets/agentgateway-logo.svg" width="70" alt="agentgateway Logo">
-    </td>
-    <td>
-      <a href="https://github.com/agentgateway">
-        <strong>agentgateway</strong>
-      </a>
-    </td>
-    <td>
-      One high-performance gateway for service, LLM, and MCP traffic.
-    </td>
-
-  <tr>
-    <td align="center">
-      <img src="assets/a2a.png" width="70" alt="A2A Logo">
-    </td>
-    <td>
-      <a href="https://github.com/a2aproject">
-        <strong>Agent2Agent (A2A)</strong>
-      </a>
-    </td>
-    <td>
-      An open standard for seamless communication and interoperability between AI agents.
-    </td>
-
-  <tr>
-    <td align="center">
-      <img src="assets/agent-router-logo-icon.svg" width="70" alt="Agent Router Logo">
-    </td>
-    <td>
-      <a href="https://github.com/theagentrouter">
-        <strong>Agent Router</strong>
-      </a>
-    </td>
-    <td>
-      The control plane for agent traffic.
-    </td>
-    
+    <td align="center"><img src="assets/agentgateway-logo.svg" width="70" alt="agentgateway Logo"></td>
+    <td><a href="https://github.com/agentgateway"><strong>agentgateway</strong></a></td>
+    <td>Growth</td>
+    <td>One high-performance gateway for service, LLM, and MCP traffic.</td>
   </tr>
+
+  <tr>
+    <td align="center"><img src="assets/agents.md-favicon.png" width="70" alt="AGENTS.MD Logo"></td>
+    <td><a href="https://github.com/agentsmd"><strong>AGENTS.MD</strong></a></td>
+    <td>Impact</td>
+    <td>A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="assets/goose-logo-black.png" width="70" alt="goose Logo"></td>
+    <td><a href="https://github.com/aaif-goose"><strong>goose</strong></a></td>
+    <td>Impact</td>
+    <td>An open source, extensible AI agent that goes beyond code suggestions. Install, execute, edit, and test with any LLM.</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="assets/mcp-favicon.svg" width="70" alt="MCP Logo"></td>
+    <td><a href="https://github.com/modelcontextprotocol"><strong>Model Context Protocol (MCP)</strong></a></td>
+    <td>Impact</td>
+    <td>An open protocol that enables seamless integration between LLM applications and external data sources and tools.</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="assets/open-responses-logo.png" width="70" alt="Open Responses Logo"></td>
+    <td><a href="https://github.com/openresponses"><strong>Open Responses</strong></a></td>
+    <td>Impact</td>
+    <td>An open specification for building multi-provider, interoperable LLM interfaces based on the OpenAI Responses API.</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="assets/openenv-logo.png" width="70" alt="OpenEnv Logo"></td>
+    <td><a href="https://github.com/openenv"><strong>OpenEnv</strong></a></td>
+    <td>Growth</td>
+    <td>An interface library for RL post-training with environments.</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="assets/opensandbox-logo.svg" width="70" alt="OpenSandbox Logo"></td>
+    <td><a href="https://github.com/opensandbox-group"><strong>OpenSandbox</strong></a></td>
+    <td>Sandbox</td>
+    <td>A secure, fast, and extensible sandbox runtime for AI agents.</td>
+  </tr>
+
+  </tbody>
 </table>
 
 ## 💪 Working Groups
